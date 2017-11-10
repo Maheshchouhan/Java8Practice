@@ -42,6 +42,6 @@ public static void main(String args[]){
 	studentList.sort((s1,s2)->s1.getName().compareTo(s2.getName()));
 	System.out.println("Sort by name "+studentList);
 	studentList.forEach((eachstudents)->System.out.println(eachstudents));
-	
+	System.out.println("bye ");
 }
 }
