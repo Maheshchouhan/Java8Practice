@@ -43,5 +43,6 @@ public static void main(String args[]){
 	System.out.println("Sort by name "+studentList);
 	studentList.forEach((eachstudents)->System.out.println(eachstudents));
 	System.out.println("Pawan changes");
+	System.out.println("bye ");
 }
 }
